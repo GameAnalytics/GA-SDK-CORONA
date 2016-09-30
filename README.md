@@ -8,6 +8,8 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 > :information_source:
 > Requirements:<br/>
 > **Corona:** 2016.2949 and up
+> <br>
+> **Supported platforms:** Android and iOS
 
 Changelog
 ---------
