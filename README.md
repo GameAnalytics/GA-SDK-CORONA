@@ -1,9 +1,9 @@
-GA-SDK-ANDROID
+GA-SDK-CORONA
 ==========
 
 GameAnalytics Corona SDK.
 
-Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki).
+Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki).
 
 > :information_source:
 > Requirements:<br/>
