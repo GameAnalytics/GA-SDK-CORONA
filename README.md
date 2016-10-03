@@ -1,9 +1,11 @@
 GA-SDK-CORONA
 ==========
 
-GameAnalytics Corona SDK.
+This repository contains the documentation for GameAnalytics Corona SDK.
 
 Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki).
+
+**Disclaimer:** the GameAnalytics Corona SDK is not live yet.
 
 > :information_source:
 > Requirements:<br/>
