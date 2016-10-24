@@ -26,15 +26,29 @@ ga.addBusinessEvent {
     itemId = "megaBoost",
     cartType = "shop"
 }
-ga.addBusinessEvent {
-    currency = "USD",
-    amount = 100,
-    itemType = "boost",
-    itemId = "megaBoost",
-    cartType = "shop",
-    receipt = "<receipt>",
-    signature = "<signature>"
-}
+
+if(system.getInfo("platformName") == "Android") then
+    ga.addBusinessEvent {
+        currency = "USD",
+        amount = 100,
+        itemType = "boost",
+        itemId = "megaBoost",
+        cartType = "shop",
+        receipt = "<receipt>",
+        signature = "<signature>"
+    }
+end
+
+if(system.getInfo("platformName") == "iOS") then
+    ga.addBusinessEvent {
+        currency = "USD",
+        amount = 100,
+        itemType = "boost",
+        itemId = "megaBoost",
+        cartType = "shop",
+        receipt = "<receipt>"
+    }
+end
 
 ga.addResourceEvent {
     flowType = "Sink",
@@ -50,6 +64,8 @@ ga.addResourceEvent {
     itemType = "lives",
     itemId = "5lives"
 }
+
+ga.setEnabledManualSessionHandling(true)
 
 ga.addProgressionEvent {
     progressionStatus = "Start",
@@ -84,6 +100,9 @@ ga.addProgressionEvent {
     progression03 = "boss1",
     score = 100
 }
+
+ga.endSession()
+ga.startSession()
 
 ga.addDesignEvent {
     eventId = "design:event"
@@ -123,3 +142,5 @@ ga.setFacebookId("my_facebook_id")
 ga.setGender("Male")
 
 ga.setBirthYear(1982)
+
+ga.endSession()
