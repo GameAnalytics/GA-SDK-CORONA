@@ -1,4 +1,4 @@
-local ga = require "plugin.gameanalytics"
+local ga = require "plugin.gameanalytics_v2"
 
 ga.setEnabledInfoLog(true)
 ga.setEnabledVerboseLog(true)

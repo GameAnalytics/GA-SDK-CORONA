@@ -1,7 +1,7 @@
 local Library = require "CoronaLibrary"
 
 -- Create stub library for simulator
-local lib = Library:new{ name='plugin.gameanalytics', publisherId='com.gameanalytics' }
+local lib = Library:new{ name='plugin.gameanalytics_v2', publisherId='com.gameanalytics' }
 
 -- Default implementations
 local function defaultFunction()
