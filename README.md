@@ -15,7 +15,7 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 
 Changelog
 ---------
-[//]: <> (CHANGELOG_TOP)
+<!--(CHANGELOG_TOP)-->
 **1.0.1**
 * fix progression event for default values for unused progression field (ios)
 
