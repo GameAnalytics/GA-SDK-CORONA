@@ -16,6 +16,12 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.0.3**
+* bug fix for resource events (android)
+* added bundle id, app version, app build number
+* added app signature and channel id (which app store was the app installed from) (android)
+* added IMEI as fallback option for identifier when Google AID and Android ID is not available on the device (requires to add optional READ_PHONE_STATE permission) (andorid)
+
 **1.0.2**
 * possible to set custom dimensions and demographics before initialise
 
