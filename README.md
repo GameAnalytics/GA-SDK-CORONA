@@ -16,6 +16,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.0.4**
+* bug fix to google AID fallback (android)
+
 **1.0.3**
 * bug fix for resource events (android)
 * added bundle id, app version, app build number
