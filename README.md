@@ -8,9 +8,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 **NOTE:** this is just a sample app and does not contain the latest version of the SDK. Please go to the Corona [marketplace](https://marketplace.coronalabs.com/plugin/game-analytics) to find  the latest version of the SDK.
 
 > :information_source:
-> Requirements:<br/>
+> Requirements: 
+>
 > **Corona:** 2016.2949 and up
-> <br>
 > **Supported platforms:** Android and iOS
 
 Changelog
