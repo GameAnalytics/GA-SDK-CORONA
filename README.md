@@ -11,6 +11,7 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 > Requirements: 
 >
 > **Corona:** 2016.2949 and up
+>
 > **Supported platforms:** Android and iOS
 
 Changelog
