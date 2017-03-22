@@ -17,6 +17,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.0.5**
+* session length precision improvement
+
 **1.0.4**
 * bug fix to google AID fallback (android)
 
