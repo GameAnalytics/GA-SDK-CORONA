@@ -17,6 +17,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-CORONA/wiki)
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.0**
+* changed the behaviour of using IMEI with the 'READ_PHONE_STATE' permission to guarantee precise analytics for certain regions
+
 **1.0.6**
 * bug fix for end session when using manual session handling
 
