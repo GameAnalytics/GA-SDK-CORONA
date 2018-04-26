@@ -26,6 +26,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/corona-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.3**
+* various bug fixes
+
 **1.1.2**
 * fixed session length bug
 * fixed not allowing to add events when session is not started
