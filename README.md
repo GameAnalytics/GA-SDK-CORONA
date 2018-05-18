@@ -26,6 +26,10 @@ Documentation can be found [here](https://gameanalytics.com/docs/corona-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.4**
+* fixed session handling for android
+* added custom dimensions to design and error events
+
 **1.1.3**
 * various bug fixes
 
