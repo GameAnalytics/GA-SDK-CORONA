@@ -26,6 +26,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/corona-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.1**
+* fixed business event validation
+
 **2.0.0**
 * added command center functionality
 
