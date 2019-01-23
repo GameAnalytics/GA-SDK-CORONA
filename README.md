@@ -26,6 +26,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/corona-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.2.0**
+* added error reporing toggle method
+
 **2.1.0**
 * added enable/disable event submission function
 
