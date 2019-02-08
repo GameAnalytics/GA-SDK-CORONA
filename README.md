@@ -26,6 +26,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/corona-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.2.1**
+* fixed missing event submission toggle method for android
+
 **2.2.0**
 * added error reporing toggle method
 
