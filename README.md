@@ -28,6 +28,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.2.2**
+* removed .orig files for ios
+
 **2.2.1**
 * fixed missing event submission toggle method for android
 
