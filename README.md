@@ -7,7 +7,7 @@ Documentation can be found [here](https://gameanalytics.com/docs/corona-sdk).
 
 If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
 
-**NOTE:** this is just a sample app and does not contain the latest version of the SDK. Please go to the Corona [marketplace](https://marketplace.coronalabs.com/plugin/game-analytics) to find  the latest version of the SDK.
+**NOTE:** this is just a sample app and does not contain the latest version of the SDK. Please go to the [documentation](https://gameanalytics.com/docs/corona-sdk) to find out how to integrate the SDK.
 
 > :information_source:
 > Requirements: 
