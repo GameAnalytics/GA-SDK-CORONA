@@ -26,10 +26,6 @@ ga.setCustomDimension01("ninja")
 ga.setCustomDimension02("dolphin")
 ga.setCustomDimension03("horde")
 
-ga.setFacebookId("my_facebook_id")
-ga.setGender("Male")
-ga.setBirthYear(1982)
-
 ga.initialize {
     gameKey = "bd624ee6f8e6efb32a054f8d7ba11618",
     gameSecret = "7f5c3f682cbd217841efba92e92ffb1b3b6612bc"

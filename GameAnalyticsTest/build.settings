@@ -42,13 +42,27 @@ settings =
     -- Plugins section
     --
     plugins =
-    {
-        ["plugin.gameanalytics_v2"] =
-        {
-            publisherId = "com.gameanalytics",
-            supportedPlatforms = { iphone=true, android=true }
-        },
-    },
+	{
+		["plugin.gameanalytics_v2"] =
+		{
+			publisherId = "com.gameanalytics",
+			supportedPlatforms = {
+				android = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-android.tar.gz" },
+
+				iphone = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-iphone.tar.gz" },
+				["iphone-sim"] = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-iphone-sim.tar.gz" },
+
+				macos = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-mac.tar.gz" },
+				["mac-sim"] = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-mac.tar.gz" },
+
+				win32 = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-win.tar.gz" },
+				["win32-sim"] = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-win.tar.gz" },
+
+				linux = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-linux.tar.gz" },
+				["linux-sim"] = { url="https://www.solar2dplugins.com/download/gameanalytics/gameanalytics/1188b1e84528197fc3a8e01957109809bdcb5145-linux.tar.gz" },
+			},
+		}
+	},
 
     --
     -- Project section
