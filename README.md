@@ -28,6 +28,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.3**
+* corrected ad event annotation
+
 **3.3.2**
 * fixed dupplicate symbols for ios (ios)
 
