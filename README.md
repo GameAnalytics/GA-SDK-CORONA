@@ -7,7 +7,7 @@ Documentation can be found [here](https://gameanalytics.com/docs/solar2d-sdk).
 
 If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
 
-**NOTE:** this is just a sample app and does not contain the latest version of the SDK. Please go to the [documentation](https://gameanalytics.com/docs/solar2d-sdk) to find out how to integrate the SDK.
+**NOTE:** this is just a sample app and does not contain the latest version of the SDK. Please go to the [documentation](https://gameanalytics.com/docs/item/solar2d-sdk) to find out how to integrate the SDK.
 
 > :information_source:
 > Requirements: 
