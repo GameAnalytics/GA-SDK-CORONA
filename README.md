@@ -3,7 +3,7 @@ GA-SDK-CORONA
 
 This repository contains the documentation for GameAnalytics Corona SDK (now known as Solar2D SDK).
 
-Documentation can be found [here](https://gameanalytics.com/docs/solar2d-sdk).
+Documentation can be found [here](https://gameanalytics.com/docs/item/solar2d-sdk).
 
 If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
 
