@@ -28,6 +28,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.7**
+* updated client ts validator
+
 **3.3.6**
 * fixed dependencies for iOS
 
